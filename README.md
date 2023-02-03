@@ -1,9 +1,9 @@
 # Weather-Dashboard-App
 
-## Description
+##Description
 
 
-## Application Web Link
+##Application Web Link
 
 
-## Application Screen shot
+##Application Screen shot
